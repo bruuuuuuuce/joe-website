@@ -9,7 +9,6 @@
   },
   "dependencies": {
     "bootstrap": "^4.5.0",
-    "imagemin-mozjpeg": "^8.0.0",
     "imagemin-optipng": "^7.1.0",
     "imagemin-svgo": "^7.1.0",
     "next": "9.3.5",
