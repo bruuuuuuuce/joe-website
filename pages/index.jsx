@@ -11,7 +11,7 @@ const HomeDiv = styled.div`
   justify-content: center;
   align-items: center;
   position: relative;
-  background-image: url(${require('../assets/stryn-min.jpg')});
+  background-image: url(${require('../assets/stryn-kayak.jpg')});
 `;
 
 const CarouselDiv = styled.div`
